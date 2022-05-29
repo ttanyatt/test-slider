@@ -1,0 +1,16 @@
+.fade > div {
+  width: 200px;
+  height: 150px;
+  background-color: #ccc;
+  border: 2px solid white;
+}
+
+.my-dots {
+  position: absolute;
+  bottom: -45px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
